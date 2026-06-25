@@ -1,6 +1,6 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
 #EXTINF:-1 tvg-id="ch299" tvg-name="Channel 299" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/06/01100422-06frvrwe8w3np6fv.png" group-title="Cignal",World Cup TV
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B7433AD5-4028-4F81-BFBD-F63110B0731A/0-16x9.jpg?width=203" group-title="Cignal",World Cup 2
