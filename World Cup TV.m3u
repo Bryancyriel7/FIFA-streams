@@ -3,5 +3,7 @@
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
 #EXTINF:-1 tvg-id="ch299" tvg-name="Channel 299" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/06/01100422-06frvrwe8w3np6fv.png" group-title="Cignal",World Cup TV
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B7433AD5-4028-4F81-BFBD-F63110B0731A/0-16x9.jpg?width=203" group-title="Cignal",World Cup 2
-https://box.djdoolky76.com/stream/udptv/ppvch2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B7433AD5-4028-4F81-BFBD-F63110B0731A/0-16x9.jpg?width=203" group-title="Cignal",World Cup Converge
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74d68f9d541c4430a0e94292bd478a65:a0a26dd189e54352b488343102a49efb
+https://dice-live-ap.akamaized.net/hdntl=exp=1782361849~acl=*dash%2flive%2f2102642%2f304343-322714%2f*!*dash%2flive%2f2102642-b%2f304343-322714-b%2f*~id=da5baf34-f82f-460a-a351-198613696ef2~data=hdntl,dWlkPUpyQnczN3w0MWE5ODUwMi03NTRhLTQwYTYtODdmZi1hYjhkYmFmYTA3ZWYmaXA9NDkuMTQ0LjExMC4xMjMmZXhwPTE3ODIzNjE4NzgmZWlkPTMwNDM0MyZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjUmdHlwZT1MSVZF~hmac=f0a5c41dd36e9ab656fefc00317cdae51fb2a285e64bff61cea47c03eed02647/dash/live/2102642/304343-322714/manifest.mpd
